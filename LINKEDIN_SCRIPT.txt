@@ -1,0 +1,37 @@
+SWYNEX Task 01 — LinkedIn video demo (approximately 45–60 seconds)
+
+Hello everyone! I am happy to share my SWYNEX Internship Task 01: Project Architecture.
+
+My project is PricePulse, a local grocery price comparison system for Sri Lanka.
+
+The problem is that grocery prices differ between shops, and customers may spend time checking them.
+
+I designed a React frontend, an Express.js REST API, and a PostgreSQL database.
+
+The main features are product search, district-wise shop price comparison, user price submissions, and admin approval.
+
+I have prepared an architecture document, database ER diagram, REST API routes, and a starter project repository.
+
+This is an academic prototype with fictional demo prices, not a live price service.
+
+Thank you to SWYNEX Technologies for this learning opportunity.
+
+---
+
+Suggested LinkedIn caption:
+
+🚀 SWYNEX Internship | Task 01 — Project Architecture
+
+Excited to share PricePulse, my local grocery price comparison system concept! 🛒
+
+For this task, I prepared the full-stack architecture using React, Node.js, Express, and PostgreSQL, including database models, REST API routes, core screens, and a starter implementation.
+
+PricePulse aims to help consumers compare community-reported grocery prices between local shops, with admin moderation before price reports are displayed.
+
+This is an educational prototype; the initial prices are fictional demo data.
+
+GitHub: [PASTE YOUR PUBLIC GITHUB REPO URL]
+
+Thank you @SWYNEX Technologies for the opportunity. (Select the official company page while tagging.)
+
+#SWYNEX #Internship #ProjectArchitecture #ReactJS #NodeJS #PostgreSQL #FullStackDevelopment
